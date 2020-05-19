@@ -46,4 +46,4 @@ containers:
 ```
 
 Result:
-![ResultImage](https://raw.githubusercontent.com/oanogin/gist-stuff/master/helm_template_in_values/result.png)
+![ResultImage](https://raw.githubusercontent.com/oanogin/gist-stuff/master/helm-template-in-values/result.png)
